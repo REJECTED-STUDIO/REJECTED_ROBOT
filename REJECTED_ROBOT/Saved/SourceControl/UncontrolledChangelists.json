@@ -5,6 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/mcsup/Documents/GitHub/REJECTED_ROBOT/REJECTED_ROBOT/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/mcsup/Documents/GitHub/REJECTED_ROBOT/REJECTED_ROBOT/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/mcsup/Documents/GitHub/REJECTED_ROBOT/REJECTED_ROBOT/Content/BPInterfaces/BPI_WorldManipulation.uasset",
+				"C:/Users/mcsup/Documents/GitHub/REJECTED_ROBOT/REJECTED_ROBOT/Content/BP_Sun.uasset",
+				"C:/Users/mcsup/Documents/GitHub/REJECTED_ROBOT/REJECTED_ROBOT/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/YD/WYNKJH8Y0EAD8G17MS7PZF.uasset",
+				"C:/Users/mcsup/Documents/GitHub/REJECTED_ROBOT/REJECTED_ROBOT/Content/BP_Light.uasset",
+				"C:/Users/mcsup/Documents/GitHub/REJECTED_ROBOT/REJECTED_ROBOT/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7X/UA8V1LS23NWB9Z6ZNW7NKG.uasset",
+				"C:/Users/mcsup/Documents/GitHub/REJECTED_ROBOT/REJECTED_ROBOT/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/KS/TEUC7B32VWLIIBKZKX1QC4.uasset",
+				"C:/Users/mcsup/Documents/GitHub/REJECTED_ROBOT/REJECTED_ROBOT/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset",
 				"D:/Users/Gabriel/Documents/GitHub/REJECTED_ROBOT/REJECTED_ROBOT/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
