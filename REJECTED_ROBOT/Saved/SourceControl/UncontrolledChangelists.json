@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"S:/Unreal_Projects/REJECTED_ROBOT/REJECTED_ROBOT/Content/Blockout/Pierwszy_Level.umap",
+				"S:/Unreal_Projects/REJECTED_ROBOT/REJECTED_ROBOT/Content/Blockout/Levels/Pierwszy_Level.umap",
+				"S:/Unreal_Projects/REJECTED_ROBOT/REJECTED_ROBOT/Content/Blockout/Assets/Pierwszy/Mesh_Platform.uasset",
+				"S:/Unreal_Projects/REJECTED_ROBOT/REJECTED_ROBOT/Content/Blockout/Assets/Pierwszy/M_Blue.uasset",
 				"C:/Users/mcsup/Documents/GitHub/REJECTED_ROBOT/REJECTED_ROBOT/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
 				"C:/Users/mcsup/Documents/GitHub/REJECTED_ROBOT/REJECTED_ROBOT/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/mcsup/Documents/GitHub/REJECTED_ROBOT/REJECTED_ROBOT/Content/BPInterfaces/BPI_WorldManipulation.uasset",
