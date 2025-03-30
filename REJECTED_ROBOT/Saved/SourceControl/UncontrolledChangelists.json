@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Users/Gabriel/Documents/GitHub/REJECTED_ROBOT/REJECTED_ROBOT/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Users/Gabriel/Documents/GitHub/REJECTED_ROBOT/REJECTED_ROBOT/Content/Gabriel/M_Toon_Shader.uasset",
+				"D:/Users/Gabriel/Documents/GitHub/REJECTED_ROBOT/REJECTED_ROBOT/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset",
+				"D:/Users/Gabriel/Documents/GitHub/REJECTED_ROBOT/REJECTED_ROBOT/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/LJ/YYLA5II1EHULSAQPKC5MWZ.uasset",
+				"D:/Users/Gabriel/Documents/GitHub/REJECTED_ROBOT/REJECTED_ROBOT/Content/Blockout/Levels/Samouczek.umap",
+				"D:/Users/Gabriel/Documents/GitHub/REJECTED_ROBOT/REJECTED_ROBOT/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HC/V29I1QOKSAS0PX9S4KALFU.uasset",
+				"D:/Users/Gabriel/Documents/GitHub/REJECTED_ROBOT/REJECTED_ROBOT/Content/Blockout/Levels/Pierwszy_Level.umap",
 				"D:/Mateusz/Projects/REJECTED_ROBOT/REJECTED_ROBOT/Content/Game_Levels/L_FirstLevel_Asset.umap",
 				"D:/Mateusz/Projects/REJECTED_ROBOT/REJECTED_ROBOT/Content/Nell/Models/Modele_do_unreala_2_CactusV1.uasset",
 				"D:/Mateusz/Projects/REJECTED_ROBOT/REJECTED_ROBOT/Content/Nell/Models/Modele_do_unreala_2_CactusV2.uasset",
@@ -269,8 +276,7 @@
 				"C:/Users/mcsup/Documents/GitHub/REJECTED_ROBOT/REJECTED_ROBOT/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/G4/CBVRKB0TTRINEMJVNFYBKS.uasset",
 				"C:/Users/mcsup/Documents/GitHub/REJECTED_ROBOT/REJECTED_ROBOT/Content/BP_Doors.uasset",
 				"C:/Users/mcsup/Documents/GitHub/REJECTED_ROBOT/REJECTED_ROBOT/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7X/UA8V1LS23NWB9Z6ZNW7NKG.uasset",
-				"C:/Users/mcsup/Documents/GitHub/REJECTED_ROBOT/REJECTED_ROBOT/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset",
-				"D:/Users/Gabriel/Documents/GitHub/REJECTED_ROBOT/REJECTED_ROBOT/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/mcsup/Documents/GitHub/REJECTED_ROBOT/REJECTED_ROBOT/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset"
 			]
 		}
 	]
