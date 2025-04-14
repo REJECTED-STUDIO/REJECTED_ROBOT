@@ -11,3 +11,12 @@ REJECTED_ROBOT/Content/Blockout/Assets/Pierwszy/SM_SM_MovingPlatformMarker.uasse
 REJECTED_ROBOT/Content/Blockout/Assets/Pierwszy/SM_Try.uasset
 REJECTED_ROBOT/Content/Blockout/Assets/Pierwszy/SM_WallLong.uasset
 REJECTED_ROBOT/Content/Blockout/Assets/Pierwszy/SM_WallShort.uasset
+*.log
+*.log
+*.bin
+*.png
+*.ini
+*.ini
+*.json
+*.bin
+*.png
